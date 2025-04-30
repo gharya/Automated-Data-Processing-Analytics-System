@@ -2,6 +2,7 @@
 Python automation system for data processing, SQL modeling, and cryptocurrency trend analysis
 
 Key Features
+  
   -Automated Data Simulation: Generates mock insurance and shipping records to emulate real-world datasets
 
   -Efficient Data Merging & Analysis: Combines and processes data to extract actionable insights
@@ -17,6 +18,7 @@ Key Features
 
 
 Technologies Used
+  
   -Python (Pandas, SQLite, Requests, PyYAML)
 
   -APIs: CoinGecko, Binance
