@@ -1,7 +1,7 @@
 # Automated-Data-Processing-Analytics-System
 Python automation system for data processing, SQL modeling, and cryptocurrency trend analysis
 
-Key Features
+                                            Key Features
   
   -Automated Data Simulation: Generates mock insurance and shipping records to emulate real-world datasets
 
@@ -17,7 +17,7 @@ Key Features
 
 
 
-Technologies Used
+                                            Technologies Used
   
   -Python (Pandas, SQLite, Requests, PyYAML)
 
