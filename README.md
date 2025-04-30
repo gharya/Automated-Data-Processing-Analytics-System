@@ -13,6 +13,9 @@ Key Features
     -Binance API integration (note: may return location-based restrictions)
 
 
+
+
+
 Technologies Used
   -Python (Pandas, SQLite, Requests, PyYAML)
 
