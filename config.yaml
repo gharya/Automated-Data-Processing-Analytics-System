@@ -1,0 +1,8 @@
+coingecko_url: "https://api.coingecko.com/api/v3/coins/markets"
+crypto_params:
+  vs_currency: "usd"
+  ids: "bitcoin,ethereum"
+  order: "market_cap_desc"
+  per_page: 2
+  page: 1
+  sparkline: false
