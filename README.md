@@ -26,3 +26,4 @@ Python automation system for data processing, SQL modeling, and cryptocurrency t
   -Data Storage: CSV files, SQLite database
 
   -Development Tools: Visual Studio Code
+.
